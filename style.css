@@ -1,0 +1,11 @@
+body {
+  front-family: Arial, sans-serif;
+  line-heigth: 1.6;
+  margin: 0;
+  padding: 0;
+  backgroud-color: #f4f4f4;
+  color: #333;
+}
+header {
+  backgroud: #4CAF50;
+  color: white
